@@ -46,6 +46,6 @@ The following tasks were performed in this project:
 4. Compare performance using **caching and partitioning**.
 5. Save results and export to **Parquet** format for optimized storage.
 
-## License
+## Attribution and Code Sources
 
-This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
+This project was developed as part of a bootcamp program. Class materials, documentation, and external resources were used to complete this challenge. This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
